@@ -1,0 +1,1 @@
+C# ile entity framework kullanarak postgresql veritabanina baglanan ornek proje
